@@ -1,4 +1,4 @@
-# ThreatModeling
+# Threat Modeling
  
 Threat Modeling assignment for the class Human Factors in Cybersecurity. 
 
